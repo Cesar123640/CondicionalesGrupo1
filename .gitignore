@@ -1,0 +1,20 @@
+
+# IntelliJ
+/.idea
+*.iml
+
+# Build folders
+/out
+/build
+/target
+
+# Gradle/Maven
+/.gradle
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
+*.jar
